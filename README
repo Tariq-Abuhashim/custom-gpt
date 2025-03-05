@@ -1,0 +1,11 @@
+This folder contains my study of GPT (Generalised Pre-trained Transformers)
+There is also a colab file in my Google Drive
+https://drive.google.com/drive/folders/1dWdk7yxo9DplmkfdniNKcPkDR0_fHHeB
+
+Resources:
+Tiny Shakespear : https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+Andrej Karpathy : https://www.youtube.com/@AndrejKarpathy
+
+Paper 1 attention is all you need : https://arxiv.org/abs/1706.03762
+Paper 2 resnet : https://arxiv.org/abs/1512.03385
+Paper 3 formal algorithms for transformers : https://arxiv.org/abs/2207.09238
